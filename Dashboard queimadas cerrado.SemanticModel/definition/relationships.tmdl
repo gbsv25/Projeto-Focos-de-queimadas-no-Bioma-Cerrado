@@ -1,5 +1,0 @@
-relationship 5e77e4cc-3c05-40b8-8c26-bc84986bbfbf
-	joinOnDateBehavior: datePartOnly
-	fromColumn: 'Dados cerrado final (acho)'.Date
-	toColumn: LocalDateTable_3f05b9e1-c337-4551-abe7-b7c66b36a187.Date
-
