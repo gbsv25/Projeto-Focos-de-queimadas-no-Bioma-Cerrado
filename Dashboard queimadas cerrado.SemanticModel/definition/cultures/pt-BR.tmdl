@@ -1,0 +1,53 @@
+cultureInfo pt-BR
+
+	linguisticMetadata =
+			{
+			  "Version": "2.0.0",
+			  "Language": "en-US",
+			  "Entities": {
+			    "dados_cerrado_final_acho.classification": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Dados cerrado final (acho)",
+			          "ConceptualProperty": "classification"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Classificação": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "dados_cerrado_final_acho.state": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Dados cerrado final (acho)",
+			          "ConceptualProperty": "State"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Estados": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    }
+			  }
+			}
+		contentType: json
+
