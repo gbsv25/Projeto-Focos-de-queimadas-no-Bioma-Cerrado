@@ -25,7 +25,6 @@ Este projeto foi desenvolvido no **Power BI** para monitorar os focos de queimad
 ### 4️⃣ Mapa Interativo - Estados Brasileiros do Bioma Cerrado
 - Exibe a distribuição geográfica dos focos nos estados que fazem parte do Cerrado.
 - O estado do Pará, geograficamente, por possuir uma mínima parte pertencente ao bioma cerrado, entra nesta análise por possui focos de queimadas extamente nesta área mínima. O bioma cerrado circunda a parte do estado do Pará que fica de encontro com a base sul do maranhão e a base norte do estado do Tocatíns.
-- 
 
 ## 🔎 Filtros e Interatividade
 - **Filtro por ano de ocorrência**: permite análise detalhada de períodos específicos.
