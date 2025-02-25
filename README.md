@@ -1,7 +1,7 @@
 # 📊 Monitoramento de Focos de Queimada no Cerrado
 
 ## 📌 Descrição do Projeto
-Este projeto foi desenvolvido no **Power BI** para monitorar os focos de queimadas no **Bioma Cerrado** ao longo dos anos, utilizando dados do **INPE (Instituto Nacional de Pesquisas Espaciais)** de **2018 a 2024**. O objetivo é identificar padrões, picos de incidência e distribuição geográfica das queimadas para apoiar a análise ambiental.
+Este projeto faz parte do trabalho de conclusão do curso "dados com elas" qur capacita mulheres a se inserir na área de dados nas mis diversas facetas e necessidades de mercado. Foi um projeto desenvolvido no **Power BI** para monitorar os focos de queimadas no **Bioma Cerrado** ao longo dos anos, utilizando dados do **INPE (Instituto Nacional de Pesquisas Espaciais)** de **2018 a 2024**. O objetivo é identificar padrões, picos de incidência e distribuição geográfica das queimadas para apoiar a análise ambiental.
 
 ## 📂 Fonte dos Dados
 - **Instituto Nacional de Pesquisas Espaciais (INPE)**
